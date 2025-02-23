@@ -40,5 +40,3 @@ Ce projet consiste à extraire des données météorologiques pour plusieurs vil
 Les contributions sont les bienvenues ! Si vous souhaitez améliorer le projet, n'hésitez pas à ouvrir une issue ou à soumettre une pull request.
 
 ---
-
-Cette description donne un aperçu clair de votre projet, des technologies utilisées, et de la manière dont les autres peuvent contribuer ou utiliser votre travail.
